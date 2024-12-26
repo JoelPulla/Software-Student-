@@ -1,0 +1,8 @@
+# Ignorar archivos de video comunes
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.webm
