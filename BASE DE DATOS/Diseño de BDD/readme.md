@@ -32,5 +32,5 @@
 
 # Ejercicios
 
-1. [Ejercicio del curso con el profesor](./carreras_diccionario_passos.md)
-2. [Ejercicio propio "ordenes de servicio"](./exp:ordenes_diccionario.md)
+1. [Ejercicio del curso con el profesor](./1_carreras_diccionario_passos.md)
+2. [Ejercicio propio "ordenes de servicio"](./2_ordenes_diccionario.md)

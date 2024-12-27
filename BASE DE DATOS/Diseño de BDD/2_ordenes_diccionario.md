@@ -63,6 +63,6 @@
 
 # Modelo Relacional de la Base de Datos
 
-![DIAGRAMA RELACIONAL](./ordes.drawio)
+![DIAGRAMA RELACIONAL](https://app.diagrams.net/#HJoelPulla%2FSoftware-Student-%2Fmain%2FBASE%20DE%20DATOS%2FDise%C3%B1o%20de%20BDD%2Fordes.drawio#%7B%22pageId%22%3A%22BgdvzKlHNDPKTFqZH0SP%22%7D)
 
 # Reglas de negocio
